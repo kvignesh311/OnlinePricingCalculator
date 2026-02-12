@@ -64,15 +64,7 @@ npm install axios
 
 Copy all the source files from this package into the `src/` directory.
 
-### 4. Update API Base URL
-
-Edit `src/api/apiClient.ts` and update the `baseURL` to match your backend:
-
-```typescript
-baseURL: 'https://localhost:7114/api'
-```
-
-### 5. Run the Development Server
+### 4. Run the Development Server
 
 ```bash
 npm run dev

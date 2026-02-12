@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create axios instance with default configuration
 const apiClient = axios.create({
-  baseURL: 'https://localhost:7114/api',
+  baseURL: 'https://onlinepricingcalculator.onrender.com/api',
   timeout: 10000,
   headers: {
     'Content-Type': 'application/json',
