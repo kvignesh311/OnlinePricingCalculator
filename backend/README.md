@@ -50,7 +50,7 @@ Returns detailed pricing with discount amount and total payable.
 
 ## Running the Project
 
-1.  Update connection string in appsettings.json
+1.  Update postgre sql connection string in appsettings.json
 
 2.  Run migrations:
 
