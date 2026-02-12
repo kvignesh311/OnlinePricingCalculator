@@ -4,8 +4,11 @@ EXPOSE 8080
 
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
+
 COPY . .
-RUN dotnet publish -c Release -o /app/publish
+
+RUN dotnet restore PricingCalculator.Api/PricingCalculator.Api.csproj
+RUN dotnet publish PricingCalculator.Api/PricingCalculator.Api.csproj -c Release -o /app/publish
 
 FROM base AS final
 WORKDIR /app
