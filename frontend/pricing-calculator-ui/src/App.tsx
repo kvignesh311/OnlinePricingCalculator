@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import ItemSelector from './components/ItemSelector/ItemSelector';
 import PricingTable from './components/PricingTable/PricingTable';
 import ErrorMessage from './components/ErrorMessage/ErrorMessage';
