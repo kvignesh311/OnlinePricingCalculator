@@ -1,6 +1,0 @@
-@PricingCalculator_HostAddress = http://localhost:5195
-
-GET {{PricingCalculator_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
