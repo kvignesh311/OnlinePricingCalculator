@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E126280-9646-2D79-8896-C9C6E5432D31}|PricingCalculator.Domain\\PricingCalculator.Domain.csproj|c:\\users\\veswaramoorthy\\source\\repos\\privaterepo\\pricingcalculator\\pricingcalculator\\pricingcalculator.domain\\entities\\discountrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E126280-9646-2D79-8896-C9C6E5432D31}|PricingCalculator.Domain\\PricingCalculator.Domain.csproj|solutionrelative:pricingcalculator.domain\\entities\\discountrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBC5E52-AF3C-0F67-1D73-BC9862A6A236}|PricingCalculator.Application\\PricingCalculator.Application.csproj|c:\\users\\veswaramoorthy\\source\\repos\\privaterepo\\pricingcalculator\\pricingcalculator\\pricingcalculator.application\\services\\pricingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBC5E52-AF3C-0F67-1D73-BC9862A6A236}|PricingCalculator.Application\\PricingCalculator.Application.csproj|solutionrelative:pricingcalculator.application\\services\\pricingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E126280-9646-2D79-8896-C9C6E5432D31}|PricingCalculator.Domain\\PricingCalculator.Domain.csproj|c:\\users\\veswaramoorthy\\source\\repos\\privaterepo\\pricingcalculator\\pricingcalculator\\pricingcalculator.domain\\entities\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E126280-9646-2D79-8896-C9C6E5432D31}|PricingCalculator.Domain\\PricingCalculator.Domain.csproj|solutionrelative:pricingcalculator.domain\\entities\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E126280-9646-2D79-8896-C9C6E5432D31}|PricingCalculator.Domain\\PricingCalculator.Domain.csproj|c:\\users\\veswaramoorthy\\source\\repos\\privaterepo\\pricingcalculator\\pricingcalculator\\pricingcalculator.domain\\entities\\discountitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E126280-9646-2D79-8896-C9C6E5432D31}|PricingCalculator.Domain\\PricingCalculator.Domain.csproj|solutionrelative:pricingcalculator.domain\\entities\\discountitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91DB808-0526-0A08-E542-895743837401}|PricingCalculator.Api\\PricingCalculator.Api.csproj|c:\\users\\veswaramoorthy\\source\\repos\\privaterepo\\pricingcalculator\\pricingcalculator\\pricingcalculator.api\\endpoints\\itemendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91DB808-0526-0A08-E542-895743837401}|PricingCalculator.Api\\PricingCalculator.Api.csproj|solutionrelative:pricingcalculator.api\\endpoints\\itemendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91DB808-0526-0A08-E542-895743837401}|PricingCalculator.Api\\PricingCalculator.Api.csproj|c:\\users\\veswaramoorthy\\source\\repos\\privaterepo\\pricingcalculator\\pricingcalculator\\pricingcalculator.api\\endpoints\\pricingendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91DB808-0526-0A08-E542-895743837401}|PricingCalculator.Api\\PricingCalculator.Api.csproj|solutionrelative:pricingcalculator.api\\endpoints\\pricingendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91DB808-0526-0A08-E542-895743837401}|PricingCalculator.Api\\PricingCalculator.Api.csproj|c:\\users\\veswaramoorthy\\source\\repos\\privaterepo\\pricingcalculator\\pricingcalculator\\pricingcalculator.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E91DB808-0526-0A08-E542-895743837401}|PricingCalculator.Api\\PricingCalculator.Api.csproj|solutionrelative:pricingcalculator.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiscountRule.cs",
+              "DocumentMoniker": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\PricingCalculator.Domain\\Entities\\DiscountRule.cs",
+              "RelativeDocumentMoniker": "PricingCalculator.Domain\\Entities\\DiscountRule.cs",
+              "ToolTip": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\PricingCalculator.Domain\\Entities\\DiscountRule.cs",
+              "RelativeToolTip": "PricingCalculator.Domain\\Entities\\DiscountRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T16:59:28.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PricingService.cs",
+              "DocumentMoniker": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\PricingCalculator.Application\\Services\\PricingService.cs",
+              "RelativeDocumentMoniker": "PricingCalculator.Application\\Services\\PricingService.cs",
+              "ToolTip": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\PricingCalculator.Application\\Services\\PricingService.cs",
+              "RelativeToolTip": "PricingCalculator.Application\\Services\\PricingService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T16:26:36.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\PricingCalculator.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PricingCalculator.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\PricingCalculator.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PricingCalculator.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T15:11:13.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\PricingCalculator.Domain\\Entities\\Discount.cs",
+              "RelativeDocumentMoniker": "PricingCalculator.Domain\\Entities\\Discount.cs",
+              "ToolTip": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\PricingCalculator.Domain\\Entities\\Discount.cs",
+              "RelativeToolTip": "PricingCalculator.Domain\\Entities\\Discount.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:04:08.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiscountItem.cs",
+              "DocumentMoniker": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\PricingCalculator.Domain\\Entities\\DiscountItem.cs",
+              "RelativeDocumentMoniker": "PricingCalculator.Domain\\Entities\\DiscountItem.cs",
+              "ToolTip": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\PricingCalculator.Domain\\Entities\\DiscountItem.cs",
+              "RelativeToolTip": "PricingCalculator.Domain\\Entities\\DiscountItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:04:51.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PricingEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\PricingCalculator.Api\\Endpoints\\PricingEndpoints.cs",
+              "RelativeDocumentMoniker": "PricingCalculator.Api\\Endpoints\\PricingEndpoints.cs",
+              "ToolTip": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\PricingCalculator.Api\\Endpoints\\PricingEndpoints.cs",
+              "RelativeToolTip": "PricingCalculator.Api\\Endpoints\\PricingEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T14:11:07.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\PricingCalculator.Api\\Endpoints\\ItemEndpoints.cs",
+              "RelativeDocumentMoniker": "PricingCalculator.Api\\Endpoints\\ItemEndpoints.cs",
+              "ToolTip": "C:\\Users\\veswaramoorthy\\source\\repos\\PrivateRepo\\PricingCalculator\\PricingCalculator\\PricingCalculator.Api\\Endpoints\\ItemEndpoints.cs",
+              "RelativeToolTip": "PricingCalculator.Api\\Endpoints\\ItemEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T14:11:04.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-12T13:25:18.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
