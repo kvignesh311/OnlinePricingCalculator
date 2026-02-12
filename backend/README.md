@@ -1,5 +1,7 @@
 # Pricing Calculator API
 
+This project is hosted in https://onlinepricingcalculator.onrender.com/
+
 ## About this project
 
 This is a .NET 8 Minimal API project built to calculate item pricing
@@ -35,11 +37,11 @@ logic separate from infrastructure and API layers.
 
 ## API Endpoints
 
-### GET /api/items
+### GET https://onlinepricingcalculator.onrender.com/api/items
 
 Returns all active items.
 
-### POST /api/pricing/calculate
+### POST https://onlinepricingcalculator.onrender.com/api/pricing/calculate
 
 Example request:
 
@@ -48,7 +50,7 @@ Example request:
 
 Returns detailed pricing with discount amount and total payable.
 
-## Running the Project
+## Running the Project locally
 
 1.  Update postgre sql connection string in appsettings.json
 

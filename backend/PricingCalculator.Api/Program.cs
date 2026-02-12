@@ -9,10 +9,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowFrontend",
+    options.AddPolicy("AllowAll",
         policy =>
         {
-            policy.WithOrigins("http://localhost:5173")
+            policy.AllowAnyOrigin()
                   .AllowAnyHeader()
                   .AllowAnyMethod();
         });
@@ -27,7 +27,7 @@ builder.Services
 
 var app = builder.Build();
 
-app.UseCors("AllowFrontend");
+app.UseCors("AllowAll");
 
 app.UseMiddleware<ExceptionHandlingMiddleware>();
 
