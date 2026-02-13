@@ -17,6 +17,13 @@ namespace PricingCalculator.Infrastructure.Repositories
             _context = context;
         }
 
+        public async Task<List<Item>> GetActiveItemsAsync()
+        {
+            return await _context.Items
+                .Where(i => i.IsActive)
+                .ToListAsync();
+        }
+
         public async Task<List<Item>> GetItemsByIdsAsync(IEnumerable<int> ids)
         {
             return await _context.Items
